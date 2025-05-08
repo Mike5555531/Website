@@ -1,0 +1,9 @@
+img {
+    margin: 10px;
+    display: flex flex-row;
+
+}
+
+body {
+    background-color: aqua;
+}
